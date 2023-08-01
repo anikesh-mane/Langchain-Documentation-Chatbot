@@ -7,8 +7,7 @@ This is a web application is using a Pinecone as a vectorsotre and answers quest
 (sources from LangChain official documentation). 
 
 
-![Logo](https://github.com/emarco177/documentation-helper/blob/main/static/banner.gif)
-[![udemy](https://img.shields.io/badge/LangChain%20Udemy%20Course-%2412.99-green)](https://www.udemy.com/course/langchain/?couponCode=LANGCHAINCD8C0B4060)
+![Logo](https://github.com/anikesh-mane/Langchain-Documentation-Chatbot/blob/e11bfa6c12bceb0c1e1b4036c2e746b5bc7ad159/static/banner.gif)
 
 ## Environment Variables
 
