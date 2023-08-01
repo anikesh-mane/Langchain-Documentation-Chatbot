@@ -1,5 +1,5 @@
 
-# LangChain Documentation Helper
+# LangChain Documentation ChatBot
 
 A repository for learning LangChain by building a generative ai application.
 
